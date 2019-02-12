@@ -2,3 +2,8 @@
 	path = rvccentre/odoo-community-modules
 	url = git@github.com:rvccentre/odoo-community-modules.git
 	branch = master
+
+[submodule "dev_bulk_confirm_purchase-11.0.1.0/dev_bulk_confirm_purchase"]
+	path = dev_bulk_confirm_purchase-11.0.1.0/dev_bulk_confirm_purchase
+	url = git@github.com:rvccentre/odoo-community-modules.git
+	branch = master
