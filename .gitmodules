@@ -7,3 +7,8 @@
 	path = dev_bulk_confirm_purchase-11.0.1.0/dev_bulk_confirm_purchase
 	url = git@github.com:rvccentre/odoo-community-modules.git
 	branch = master
+
+[submodule "om_mass_confirm_cancel-11.0.1.0.0/om_mass_confirm_cancel"]
+	path = om_mass_confirm_cancel-11.0.1.0.0/om_mass_confirm_cancel
+	url = git@github.com:rvccentre/odoo-community-modules.git
+	branch = master
